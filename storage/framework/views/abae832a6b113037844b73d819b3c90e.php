@@ -1,0 +1,1 @@
+<?php /**PATH D:\server-3\htdocs\complete-crud\resources\views/website/includs/footer.blade.php ENDPATH**/ ?>
